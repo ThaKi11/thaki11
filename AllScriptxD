@@ -87,14 +87,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs
 
  end
 
- }) AddButton(Tab1o, {
-
-     Name = "Hiru Hub",
-
-    Callback = function()
-
- loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/Dev-Hiru/refs/heads/main/HiruHub.lua"))()
-
- end
-
  })
+ 
